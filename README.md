@@ -59,8 +59,9 @@ Depending on whether you have **Anaconda** or **Python** installed, follow one o
     ```
     pip install -r requirements.txt
     ```
+---
 
-### 4. **Explore the Notebooks**
+### 3. **Explore the Notebooks**
 - Inside the repository, you will find two main folders: **`pytorch`** and **`keras`**.
 - Each folder contains Jupyter Notebooks for different neural network implementations (e.g., Feedforward Neural Networks, Convolutional Neural Networks etc.) for various projects or datasets.
 - The notebook files are named in the format:  
