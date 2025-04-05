@@ -1,0 +1,10 @@
+name: neuralnets101
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - keras
+  - pytorch
+  - pip
+  - pip:
+    - jupyter
