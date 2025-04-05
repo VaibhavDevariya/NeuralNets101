@@ -69,7 +69,7 @@ Depending on whether you have **Anaconda** or **Python** installed, follow one o
   
 For example:
   - **pytorch/`mnist_CNN.ipynb`**: A Convolutional Neural Network implementation for the MNIST dataset using PyTorch.
-  - **keras/`fashion_mnist_CNN.ipynb`**: A Convolutional Neural Network implementation for the Fashion MNIST dataset using Keras.
+  - **keras/`fmnist_CNN.ipynb`**: A Convolutional Neural Network implementation for the Fashion MNIST dataset using Keras.
 
 You can open the respective notebook based on the framework you wish to work with and start experimenting with the code and models.
 
